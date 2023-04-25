@@ -7,10 +7,10 @@
 https://www.palmeiras.com.br/
 
 - [ ] Comprar arroz
-- [ ] Comprar feijão
+- [x] Comprar feijão
 - [ ] Comprar batata
 - [x] Comprar macarrão
 
-**Palmeiras não tem mundial**
+**Palmeiras tem mundial**
 
-*51 não é titutulo, 51 é _pinga_*
+*Gosto de jogar CS*
