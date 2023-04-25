@@ -13,4 +13,4 @@ https://www.palmeiras.com.br/
 
 **Palmeiras não tem mundial**
 
-**51 não é titutulo, 51 é _pinga_ **
+*51 não é titutulo, 51 é _pinga_*
